@@ -26,7 +26,6 @@ __Artists__
 - Template classes are prefixed by T.
 - Classes that inherit from UObject are prefixed by U.
 - Classes that inherit from AActor are prefixed by A.
-- Classes that inherit from SWidget are prefixed by S.
 - Classes that are abstract interfaces are prefixed by I.
 - Enums are prefixed by E.
 
